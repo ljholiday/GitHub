@@ -20,4 +20,5 @@ Fri Aug 30 13:06:35 PDT 2024
 
 Now to figure out how to change the format.
 
+Added on my phone in the GitHub app.
 
