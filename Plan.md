@@ -96,11 +96,13 @@ Teeth cleaning.
 
 **Thursday 29**
 
+**Friday 30**
+
 Think slow.
 
 Think about the plan. 
 
-MM. Make the buttons match.
+MM.Make the buttons match.
 
 Shower. 
 
@@ -114,7 +116,6 @@ Add a little x on the right end of the set timer window to clear the current set
 
 Redesign the MM logo. Give it a lot more breathing room.
 
-**Friday 30**
 
 Link iOS Motorhead Meditation project to github.
 
