@@ -104,18 +104,13 @@ Think about the plan.
 
 MM.Make the buttons match.
 
-Shower. 
-
 MM. Fix the timers. Use the system timer dialog on both. Like android is using now.
 
 MM. Make Pause/Play pause the timer, too.
 
-MM. The timer stopped working in android.
-
 Add a little x on the right end of the set timer window to clear the current setting.
 
 Redesign the MM logo. Give it a lot more breathing room.
-
 
 Link iOS Motorhead Meditation project to github.
 
@@ -130,6 +125,9 @@ MM. Add a sample sound to the Motorhead meditation website.
 MM. Create google analytics property and gtm tag and update \<\!--\#include file\="gtm-motorheadmeditation.txt"\--\> for motorheadmeditaion.
 
 **Saturday 31**
+
+Shower. 
+
 
 # 2024-09-01-2024-09-15
 
